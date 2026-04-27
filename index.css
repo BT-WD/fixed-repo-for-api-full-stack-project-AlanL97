@@ -1,1 +1,44 @@
+body {
+    background-image: url('https://media.cntraveler.com/photos/57237bd7c68c96fe3af96742/16:9/w_2560%2Cc_limit/international-flags-flagpoles-GettyImages-184601450.jpg');
+    place-items: center;
+}
 
+h1 {
+    color:#0deb32;
+    font-weight: 1000;
+    font-size: 2.75em;
+}
+
+section {
+    color: #080808;
+}
+
+.country-facts {
+    font-weight: 250;
+    font-size: 1.25em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #c1c1c4
+}
+
+.name-search {
+    background-color: #087ff5;
+    border: #087ff5
+}
+
+.code-search {
+    background-color: #da1111;
+    border: #da1111;
+}
+.capital-search {
+    background-color: #e9ec0c;
+    border: #e9ec0c;
+}
+
+.demonym-search {
+    background-color: #4ae944;
+    border: #4ae944;
+}
+
+.search-bar {
+    width: 625px;
+}
