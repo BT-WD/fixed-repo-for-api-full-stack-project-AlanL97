@@ -1,5 +1,6 @@
 body {
     background-image: url('https://media.cntraveler.com/photos/57237bd7c68c96fe3af96742/16:9/w_2560%2Cc_limit/international-flags-flagpoles-GettyImages-184601450.jpg');
+    display: grid;
     place-items: center;
 }
 
@@ -41,4 +42,17 @@ section {
 
 .search-bar {
     width: 625px;
+}
+
+.favorite-button {
+    background-color: #3180cf;
+    border: #3180cf;
+}
+
+.display-favorites {
+    background-color: #1039dd;
+}
+
+.reset-favorites {
+    background-color: #1039dd;
 }
